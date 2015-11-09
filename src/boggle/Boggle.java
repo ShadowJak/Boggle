@@ -11,7 +11,7 @@ import userInterface.BoggleUi;
 
 /**
  *
- * @author Adrian
+ * @author Adrian Melendez
  */
 public class Boggle {
 
